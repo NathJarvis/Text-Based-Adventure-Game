@@ -10,7 +10,7 @@ Dungeon Explorer is an immersive text-based adventure game where players navigat
 - **Simple HUD System**: Track your progress and inventory with an easy-to-understand heads-up display
 
 ## How to Play
-1. Run the Python script to start the game
+1. Run the Python script to start the game Bbest if you emulate terminal in python console)
 2. Read the on-screen instructions and story elements
 3. Make choices by entering the corresponding numbers or commands
 4. Explore different rooms by navigating through available connections
